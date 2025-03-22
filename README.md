@@ -2,9 +2,9 @@
 
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
-- 🔭 I’m currently working on [DAL](https://aidal.ir/)
+- 🔭 I’m currently working on [Bijak](https://bijak.ir/)
 - 🌱 I’m currently deepening my knowledge in Python, FastAPI and Django.
-- 💬 Ask me about anything related to Python/FastAPI/Django.
+- 💬 Ask me about anything related to Python | FastAPI | Django.
 
 🔗 &nbsp;**Connect with me**
 <p align="left"> 
