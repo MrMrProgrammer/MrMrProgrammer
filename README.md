@@ -16,4 +16,4 @@
 
 ---
 
-![ProgrammingWallpaper](/images/programming_wallpaper.png)
+![ProgrammingWallpaper](/images/narrow_programming_wallpaper.png)
