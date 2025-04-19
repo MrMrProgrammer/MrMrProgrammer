@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
-- 🔭 I’m currently working on [Bijak](https://bijak.ir/)
+- 🔭 I’m currently working full-time at [IranSamaneh](https://iransamaneh.com/) and part-time at [Bijak](https://bijak.ir/)
 - 🌱 I’m currently deepening my knowledge in Python, FastAPI and Django.
 - 💬 Ask me about anything related to Python | FastAPI | Django.
 
