@@ -8,7 +8,7 @@
 
 🔗 &nbsp;**Connect with me**
 
-<p align="left" style=display: flex;>
+<p style="display:flex">
   <a href="https://mrmrprogrammer.pythonanywhere.com/Resume" target="blank">
     <img src="https://github.com/MrMrProgrammer/MrMrProgrammer/blob/main/images/cv.png" alt="cv" height="30" width="30" />
   </a>
