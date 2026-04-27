@@ -13,10 +13,10 @@
     <img src="https://github.com/MrMrProgrammer/MrMrProgrammer/blob/main/images/cv.png" alt="cv" height="30" width="30" />
   </a>
   <a href="https://mrmrprogrammer.ir" target="blank">
-    <img src="https://github.com/MrMrProgrammer/MrMrProgrammer/blob/main/images/browser.png" alt="browser" height="30" width="30" />
+    <img src="[https://github.com/MrMrProgrammer/MrMrProgrammer/blob/main/images/browser.png](https://github.com/MrMrProgrammer/MrMrProgrammer/blob/main/images/browser.png)" alt="browser" height="30" width="30" />
   </a>
   <a href="https://www.linkedin.com/in/mrmrprogrammer" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+    <img src="https://github.com/MrMrProgrammer/MrMrProgrammer/blob/main/images/linkedin.png" alt="linkedin" height="30" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/20306553/mrmrprogrammer" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" />
