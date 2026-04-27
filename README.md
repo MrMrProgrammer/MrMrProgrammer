@@ -7,13 +7,30 @@
 - 💬 Ask me about anything related to Python | FastAPI | Django.
 
 🔗 &nbsp;**Connect with me**
-<a href="https://mrmrprogrammer.pythonanywhere.com/Resume" target="blank"><img align="center" src="https://github.com/MrMrProgrammer/MrMrProgrammer/blob/main/images/cv.png" alt="cv" height="30" width="30" /></a>
-<a href="https://mrmrprogrammer.ir" target="blank"><img align="center" src="https://github.com/MrMrProgrammer/MrMrProgrammer/blob/main/images/browser.png" alt="gautamkrishnar" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/mrmrprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20306553/mrmrprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://instagram.com/mrmrprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://github.com/MrMrProgrammer/wiki" target="blank"><img align="center" src="https://github.com/MrMrProgrammer/MrMrProgrammer/blob/main/images/wiki.png" alt="wiki" height="30" width="40" /></a>
-<a href="https://pypi.org/user/MrMrProgrammer" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/04/PyPI-Logo-notext.svg" alt="wiki" height="30" width="40" /></a>
+
+<p align="left">
+  <a href="https://mrmrprogrammer.pythonanywhere.com/Resume" target="blank">
+    <img src="https://github.com/MrMrProgrammer/MrMrProgrammer/blob/main/images/cv.png" alt="cv" height="30" width="30" />
+  </a>
+  <a href="https://mrmrprogrammer.ir" target="blank">
+    <img src="https://github.com/MrMrProgrammer/MrMrProgrammer/blob/main/images/browser.png" alt="browser" height="30" width="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/mrmrprogrammer" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/20306553/mrmrprogrammer" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/mrmrprogrammer" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  </a>
+  <a href="https://github.com/MrMrProgrammer/wiki" target="blank">
+    <img src="https://github.com/MrMrProgrammer/MrMrProgrammer/blob/main/images/wiki.png" alt="wiki" height="30" width="40" />
+  </a>
+  <a href="https://pypi.org/user/MrMrProgrammer" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/PyPI-Logo-notext.svg" alt="pypi" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
