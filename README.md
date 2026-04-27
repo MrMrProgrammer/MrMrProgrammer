@@ -16,19 +16,19 @@
     <img src="https://github.com/MrMrProgrammer/MrMrProgrammer/blob/main/images/browser.png" alt="browser" height="30" width="30" />
   </a>
   <a href="https://www.linkedin.com/in/mrmrprogrammer" target="blank">
-    <img src="https://github.com/MrMrProgrammer/MrMrProgrammer/blob/main/images/linkedin.png" alt="linkedin" height="30" width="40" />
+    <img src="https://github.com/MrMrProgrammer/MrMrProgrammer/blob/main/images/linkedin.png" alt="linkedin" height="30" width="30" />
   </a>
   <a href="https://stackoverflow.com/users/20306553/mrmrprogrammer" target="blank">
-    <img src="https://github.com/MrMrProgrammer/MrMrProgrammer/blob/main/images/stack-overflow.png" alt="stackoverflow" height="30" width="40" />
+    <img src="https://github.com/MrMrProgrammer/MrMrProgrammer/blob/main/images/stack-overflow.png" alt="stackoverflow" height="30" width="30" />
   </a>
   <a href="https://instagram.com/mrmrprogrammer" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+    <img src="https://github.com/MrMrProgrammer/MrMrProgrammer/blob/main/images/instagram.png" alt="instagram" height="30" width="30" />
   </a>
   <a href="https://github.com/MrMrProgrammer/wiki" target="blank">
     <img src="https://github.com/MrMrProgrammer/MrMrProgrammer/blob/main/images/wiki.png" alt="wiki" height="30" width="40" />
   </a>
   <a href="https://pypi.org/user/MrMrProgrammer" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/PyPI-Logo-notext.svg" alt="pypi" height="30" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/PyPI-Logo-notext.svg" alt="pypi" height="30" width="30" />
   </a>
 </p>
 
