@@ -28,7 +28,7 @@
     <img src="https://github.com/MrMrProgrammer/MrMrProgrammer/blob/main/images/wiki.png" alt="wiki" height="30" width="40" />
   </a>
   <a href="https://pypi.org/user/MrMrProgrammer" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/PyPI-Logo-notext.svg" alt="pypi" height="30" width="30" />
+    <img src="https://github.com/MrMrProgrammer/MrMrProgrammer/blob/main/images/pypi.png" alt="pypi" height="30" width="30" />
   </a>
 </p>
 
