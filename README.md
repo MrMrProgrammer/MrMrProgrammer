@@ -19,7 +19,7 @@
     <img src="https://github.com/MrMrProgrammer/MrMrProgrammer/blob/main/images/linkedin.png" alt="linkedin" height="30" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/20306553/mrmrprogrammer" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" />
+    <img src="https://github.com/MrMrProgrammer/MrMrProgrammer/blob/main/images/stack-overflow.png" alt="stackoverflow" height="30" width="40" />
   </a>
   <a href="https://instagram.com/mrmrprogrammer" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
