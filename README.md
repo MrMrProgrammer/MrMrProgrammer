@@ -13,7 +13,7 @@
     <img src="https://github.com/MrMrProgrammer/MrMrProgrammer/blob/main/images/cv.png" alt="cv" height="30" width="30" />
   </a>
   <a href="https://mrmrprogrammer.ir" target="blank">
-    <img src="[https://github.com/MrMrProgrammer/MrMrProgrammer/blob/main/images/browser.png](https://github.com/MrMrProgrammer/MrMrProgrammer/blob/main/images/browser.png)" alt="browser" height="30" width="30" />
+    <img src="https://github.com/MrMrProgrammer/MrMrProgrammer/blob/main/images/browser.png" alt="browser" height="30" width="30" />
   </a>
   <a href="https://www.linkedin.com/in/mrmrprogrammer" target="blank">
     <img src="https://github.com/MrMrProgrammer/MrMrProgrammer/blob/main/images/linkedin.png" alt="linkedin" height="30" width="40" />
